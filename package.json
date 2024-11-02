@@ -1,0 +1,16 @@
+{
+  "name": "com.indie.automaticbuttons",
+  "version": "1.0.0",
+  "displayName": "AutomaticButtons",
+  "description": "Automatically generates buttons for all basix public functions in the Unity inspector.",
+  "unity": "2023.2.20f1",
+  "author": {
+    "name": "danejw",
+    "email": "",
+    "url": "yourindie.dev"
+  },
+  "dependencies": {
+    "com.unity.modules.core": "1.0.0",
+    "com.unity.modules.editor": "1.0.0"
+  }
+}
